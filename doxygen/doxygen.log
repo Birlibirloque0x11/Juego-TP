@@ -1,0 +1,17 @@
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Alienigenas.h:24: warning: The following parameters of AlienigenasInserta(Alienigenas ali, Alien a, int n) are not documented:
+  parameter 'n'
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Alienigenas.h:41: warning: The following parameters of AlienigenasMueve(Alienigenas ali, int vel) are not documented:
+  parameter 'vel'
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Pantalla.h:175: warning: argument 'w' of command @param is not found in the argument list of Pantalla_DibujaImagen(Imagen imagen, double x, double y, double ancho, double alto)
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Pantalla.h:175: warning: argument 'h' of command @param is not found in the argument list of Pantalla_DibujaImagen(Imagen imagen, double x, double y, double ancho, double alto)
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Pantalla.h:175: warning: The following parameters of Pantalla_DibujaImagen(Imagen imagen, double x, double y, double ancho, double alto) are not documented:
+  parameter 'ancho'
+  parameter 'alto'
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Pantalla.h:219: warning: argument 'x' of command @param is not found in the argument list of Pantalla_ImagenCaptura(int x1, int y1, int w, int h)
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Pantalla.h:219: warning: argument 'y' of command @param is not found in the argument list of Pantalla_ImagenCaptura(int x1, int y1, int w, int h)
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Pantalla.h:219: warning: The following parameters of Pantalla_ImagenCaptura(int x1, int y1, int w, int h) are not documented:
+  parameter 'x1'
+  parameter 'y1'
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Pantalla.h:77: warning: argument 'keycode' of command @param is not found in the argument list of Pantalla_TeclaPulsada(SDL_Scancode scancode)
+C:/Users/Alumno/Desktop/Bubble 2.0-20170628T080742Z-001/Bubble 2.0/Pantalla.h:77: warning: The following parameters of Pantalla_TeclaPulsada(SDL_Scancode scancode) are not documented:
+  parameter 'scancode'

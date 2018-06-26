@@ -1,0 +1,444 @@
+# depslib dependency file v1.0
+1498194913 source:c:\users\alumno\desktop\bubble 2.0\alien.c
+	"Pantalla.h"
+	"Alien.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498169082 c:\users\alumno\desktop\bubble 2.0\pantalla.h
+	"SDL2/SDL.h"
+
+1498169080 c:\users\alumno\desktop\bubble 2.0\alien.h
+	"Bala.h"
+
+1498169080 c:\users\alumno\desktop\bubble 2.0\bala.h
+
+1498169080 source:c:\users\alumno\desktop\bubble 2.0\bala.c
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498194886 source:c:\users\alumno\desktop\bubble 2.0\nave.c
+	"Pantalla.h"
+	"Nave.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498169080 c:\users\alumno\desktop\bubble 2.0\nave.h
+	"Bala.h"
+
+1498169080 source:c:\users\alumno\desktop\bubble 2.0\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1498169082 source:c:\users\alumno\desktop\bubble 2.0\rafaga.c
+	"Pantalla.h"
+	"Rafaga.h"
+	"Bala.h"
+	"Alien.h"
+	"Nave.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498169082 c:\users\alumno\desktop\bubble 2.0\rafaga.h
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+
+1498199581 source:c:\users\alumno\desktop\bubble 2.0\main.c
+	"Pantalla.h"
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+	"Rafaga.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1498176304 source:c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\alien.c
+	"Pantalla.h"
+	"Alien.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498176308 c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\pantalla.h
+	"SDL2/SDL.h"
+
+1498176304 c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\alien.h
+	"Bala.h"
+
+1498176304 c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\bala.h
+
+1498176304 source:c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\bala.c
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498176308 source:c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\main.c
+	"Pantalla.h"
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+	"Rafaga.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1498176308 c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\nave.h
+	"Bala.h"
+
+1498176310 c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\rafaga.h
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+
+1498176308 source:c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\nave.c
+	"Pantalla.h"
+	"Nave.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498176308 source:c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1498176308 source:c:\users\alumno\desktop\bubble 2.0-20170626t065559z-001\bubble 2.0\rafaga.c
+	"Pantalla.h"
+	"Rafaga.h"
+	"Bala.h"
+	"Alien.h"
+	"Nave.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498469643 source:c:\users\alumno\desktop\bubble 3.0\bubble 3.0\alien.c
+	"Pantalla.h"
+	"Alien.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498176308 c:\users\alumno\desktop\bubble 3.0\bubble 3.0\pantalla.h
+	"SDL2/SDL.h"
+
+1498176304 c:\users\alumno\desktop\bubble 3.0\bubble 3.0\alien.h
+	"Bala.h"
+
+1498176304 c:\users\alumno\desktop\bubble 3.0\bubble 3.0\bala.h
+
+1498468506 source:c:\users\alumno\desktop\bubble 3.0\bubble 3.0\alienigenas.c
+	"Pantalla.h"
+	"Rafaga.h"
+	"Bala.h"
+	"Alien.h"
+	"Alienigenas.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498176310 c:\users\alumno\desktop\bubble 3.0\bubble 3.0\rafaga.h
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+
+1498176308 c:\users\alumno\desktop\bubble 3.0\bubble 3.0\nave.h
+	"Bala.h"
+
+1498470868 c:\users\alumno\desktop\bubble 3.0\bubble 3.0\alienigenas.h
+	"Alien.h"
+
+1498176304 source:c:\users\alumno\desktop\bubble 3.0\bubble 3.0\bala.c
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498176308 source:c:\users\alumno\desktop\bubble 3.0\bubble 3.0\nave.c
+	"Pantalla.h"
+	"Nave.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498176308 source:c:\users\alumno\desktop\bubble 3.0\bubble 3.0\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1498176308 source:c:\users\alumno\desktop\bubble 3.0\bubble 3.0\rafaga.c
+	"Pantalla.h"
+	"Rafaga.h"
+	"Bala.h"
+	"Alien.h"
+	"Nave.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498468404 source:c:\users\alumno\desktop\bubble 3.0\bubble 3.0\main.c
+	"Pantalla.h"
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+	"Rafaga.h"
+	"Alienigenas.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1498442112 source:c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\alien.c
+	"Pantalla.h"
+	"Alien.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498577192 c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\pantalla.h
+	"SDL2/SDL.h"
+
+1498442112 c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\alien.h
+	"Bala.h"
+
+1498442112 c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\bala.h
+
+1498575577 source:c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\alienigenas.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"Alienigenas.h"
+	"Alien.h"
+
+1498577529 c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\alienigenas.h
+	"Alien.h"
+
+1498442112 source:c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\bala.c
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498577463 source:c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\main.c
+	"Pantalla.h"
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+	"Rafaga.h"
+	"Alienigenas.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1498442114 c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\nave.h
+	"Bala.h"
+
+1498442116 c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\rafaga.h
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+
+1498442114 source:c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\nave.c
+	"Pantalla.h"
+	"Nave.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498442116 source:c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1498442116 source:c:\users\rmadr\desktop\bubble 3.0\bubble 3.0\rafaga.c
+	"Pantalla.h"
+	"Rafaga.h"
+	"Bala.h"
+	"Alien.h"
+	"Nave.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498442112 source:c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\alien.c
+	"Pantalla.h"
+	"Alien.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498577890 c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\pantalla.h
+	"SDL2/SDL.h"
+
+1498442112 c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\alien.h
+	"Bala.h"
+
+1498442112 c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\bala.h
+
+1498575577 source:c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\alienigenas.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"Alienigenas.h"
+	"Alien.h"
+
+1498591426 c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\alienigenas.h
+	"Alien.h"
+
+1498442112 source:c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\bala.c
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498577463 source:c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\main.c
+	"Pantalla.h"
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+	"Rafaga.h"
+	"Alienigenas.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1498442114 c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\nave.h
+	"Bala.h"
+
+1498442116 c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\rafaga.h
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+
+1498442114 source:c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\nave.c
+	"Pantalla.h"
+	"Nave.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498442116 source:c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1498442116 source:c:\users\rmadr\desktop\bubble 3.0\bubble 2.0\rafaga.c
+	"Pantalla.h"
+	"Rafaga.h"
+	"Bala.h"
+	"Alien.h"
+	"Nave.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498637334 source:c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\alien.c
+	"Pantalla.h"
+	"Alien.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498638173 c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\pantalla.h
+	"SDL2/SDL.h"
+
+1498637334 c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\alien.h
+	"Bala.h"
+
+1498637334 c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\bala.h
+
+1498637334 source:c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\alienigenas.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"Alienigenas.h"
+	"Alien.h"
+
+1498638277 c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\alienigenas.h
+	"Alien.h"
+
+1498637334 source:c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\bala.c
+	"Pantalla.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498637334 source:c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\nave.c
+	"Pantalla.h"
+	"Nave.h"
+	"Bala.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498637334 c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\nave.h
+	"Bala.h"
+
+1498637334 source:c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1498637334 source:c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\rafaga.c
+	"Pantalla.h"
+	"Rafaga.h"
+	"Bala.h"
+	"Alien.h"
+	"Nave.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1498637334 c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\rafaga.h
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+
+1498638173 source:c:\users\alumno\desktop\bubble 2.0-20170628t080742z-001\bubble 2.0\main.c
+	"Pantalla.h"
+	"Alien.h"
+	"Nave.h"
+	"Bala.h"
+	"Rafaga.h"
+	"Alienigenas.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
